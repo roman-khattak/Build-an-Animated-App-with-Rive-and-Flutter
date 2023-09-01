@@ -2,12 +2,12 @@
 
 A new Flutter project.
 
+Added a visually captivating UI with intricate animations, including animated icons and seamless transitions, utilizing the power of Rive Animations
+
 The username and password if provided then login will be successful otherwise unsuccessful.
 As for username you can use 'test@gmail.com' and for password you can use '12345'
 
 The icons used in the bottomNavigationBar in this project are Rive Icons not normal icons which can be found in 'Rive community' in 'rive.app'
-
-
 
 A few resources to get you started if this is your first Flutter project:
 
